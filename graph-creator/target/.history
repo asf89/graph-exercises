@@ -1,0 +1,48 @@
+set name:="graph-creator"
+set scalaVersion:="2.13.1"
+set version:="1.0"
+session save
+exit
+run graph-creator
+exit
+run graph-creator
+compile
+exit
+compile
+run
+compile
+run
+compile
+run
+compile
+run
+compile
+run
+compile
+run
+compile
+run
+exit
+compile
+run
+compile
+run
+compile
+exit
+compile
+clear
+compile
+run
+exit
+compile
+run
+compile
+exit
+compile
+exit
+compile
+run
+compile
+exit
+run
+exit

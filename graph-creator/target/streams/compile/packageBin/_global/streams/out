@@ -1,0 +1,17 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/asf/Documents/CESAR/Graph_Theory/graph-exercises/graph-creator/target/scala-2.13/graph-creator_2.13-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	GraphCreator$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/asf/Documents/CESAR/Graph_Theory/graph-exercises/graph-creator/target/scala-2.13/classes/GraphCreator$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	graphtools[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/asf/Documents/CESAR/Graph_Theory/graph-exercises/graph-creator/target/scala-2.13/classes/graphtools[0m
+[0m[[0m[0mdebug[0m] [0m[0m	graphtools/Vertex.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/asf/Documents/CESAR/Graph_Theory/graph-exercises/graph-creator/target/scala-2.13/classes/graphtools/Vertex.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	graphtools/Vertex$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/asf/Documents/CESAR/Graph_Theory/graph-exercises/graph-creator/target/scala-2.13/classes/graphtools/Vertex$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	graphtools/Graph.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/asf/Documents/CESAR/Graph_Theory/graph-exercises/graph-creator/target/scala-2.13/classes/graphtools/Graph.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	graphtools/Edge.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/asf/Documents/CESAR/Graph_Theory/graph-exercises/graph-creator/target/scala-2.13/classes/graphtools/Edge.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	GraphCreator.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/asf/Documents/CESAR/Graph_Theory/graph-exercises/graph-creator/target/scala-2.13/classes/GraphCreator.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

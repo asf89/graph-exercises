@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/home/asf/Documents/CESAR/Graph_Theory/graph-exercises/graph-creator/src/main/scala/graphtools/Edge.scala:19:11: reassignment to val[0m
+[0m[[0m[31merror[0m] [0m[0m    _name = newName[0m
+[0m[[0m[31merror[0m] [0m[0m          ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
