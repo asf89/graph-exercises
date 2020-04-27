@@ -1,0 +1,19 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/asf/Documents/CESAR/Graph_Theory/graph-exercises/graph-tree/target/scala-2.13/graph-tree_2.13-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	GraphTree.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/asf/Documents/CESAR/Graph_Theory/graph-exercises/graph-tree/target/scala-2.13/classes/GraphTree.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	treeElements[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/asf/Documents/CESAR/Graph_Theory/graph-exercises/graph-tree/target/scala-2.13/classes/treeElements[0m
+[0m[[0m[0mdebug[0m] [0m[0m	treeElements/Position$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/asf/Documents/CESAR/Graph_Theory/graph-exercises/graph-tree/target/scala-2.13/classes/treeElements/Position$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	treeElements/Position.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/asf/Documents/CESAR/Graph_Theory/graph-exercises/graph-tree/target/scala-2.13/classes/treeElements/Position.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	treeOperations[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/asf/Documents/CESAR/Graph_Theory/graph-exercises/graph-tree/target/scala-2.13/classes/treeOperations[0m
+[0m[[0m[0mdebug[0m] [0m[0m	treeOperations/LinkedBinaryTree.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/asf/Documents/CESAR/Graph_Theory/graph-exercises/graph-tree/target/scala-2.13/classes/treeOperations/LinkedBinaryTree.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	treeOperations/LinkedBinaryTree$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/asf/Documents/CESAR/Graph_Theory/graph-exercises/graph-tree/target/scala-2.13/classes/treeOperations/LinkedBinaryTree$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	GraphTree$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/asf/Documents/CESAR/Graph_Theory/graph-exercises/graph-tree/target/scala-2.13/classes/GraphTree$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
