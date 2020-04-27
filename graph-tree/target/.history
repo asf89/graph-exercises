@@ -1,0 +1,38 @@
+set name := "graph-tree"
+set scalaVersion := "2.13.2"
+set version := "1.0"
+session save
+exit
+compile
+run
+compile
+run
+exit
+compile
+run
+compile
+run
+compile
+run
+compile
+run
+clear
+compile
+run
+compile
+run
+compile
+run
+compile
+run
+compile
+run
+compile
+run
+compile
+run
+compile
+run
+compile
+run
+exit
