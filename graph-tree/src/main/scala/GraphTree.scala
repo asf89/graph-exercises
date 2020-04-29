@@ -5,7 +5,7 @@ object GraphTree {
 
   def main(args: Array[String]): Unit = {
 
-    var leaf: Position = new Position()
+    var leaf: Position = new Position
     var tree: LinkedBinaryTree = new LinkedBinaryTree(leaf)
 
     tree.addRoot(40)
