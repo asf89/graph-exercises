@@ -28,14 +28,14 @@ class LinkedBinaryTree(var root: Position = null, var _treeSize: Int = 0) {
   }
 
   def hasLeft(node: Position): Boolean = {
-    node.rightChild match {
+    node.leftChild match {
       case null => false
       case other => true
     }
   }
 
   def hasRight(node: Position): Boolean = {
-    node.leftChild match {
+    node.rightChild match {
       case null => false
       case other => true
     }
@@ -47,6 +47,7 @@ class LinkedBinaryTree(var root: Position = null, var _treeSize: Int = 0) {
 
   def insertLeft(node: Position, leftChildValue: Int): Unit = {
     if (node.leftChild == null) {
+      node.leftChild = new Position
       node.leftChild.father = node
       node.leftChild.element_=(leftChildValue)
       if (this.hasRight(node) == false) this.treeSize_=(this.treeSize + 1)
@@ -57,6 +58,7 @@ class LinkedBinaryTree(var root: Position = null, var _treeSize: Int = 0) {
 
   def insertRight(node: Position, rightChildValue: Int): Unit = {
     if (node.rightChild == null) {
+      node.rightChild = new Position
       node.rightChild.father = node
       node.rightChild.element_=(rightChildValue)
       if (this.hasLeft(node) == false) this.treeSize_=(this.treeSize + 1)
