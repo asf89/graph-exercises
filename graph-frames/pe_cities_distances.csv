@@ -1,31 +1,31 @@
-src, dst, relationship
-Igarassu, Araripina, ROAD
-Araripina, Ouricuri, ROAD
-Ouricuri, Buíque, ROAD
-Buíque, Brejo da Madre de Deus, ROAD
-Brejo da Madre de Deus, Bodocó, ROAD
-Bodocó, João Alfredo, ROAD
-João Alfredo, Exu, ROAD
-Exu, Ipubi, ROAD
-Ipubi, Tupanatinga, ROAD
-Tupanatinga, Igarassu, ROAD
-Araripina, Bodocó, ROAD
-Exu, Igarassu, ROAD
-Buíque, Ipubi, ROAD
-Brejo da Madre de Deus, Ouricuri, ROAD
-João Alfredo, Buíque, ROAD
-Tupanatinga, Ouricuri, ROAD
-Bodocó, Igarassu, ROAD
-Araripina, Brejo da Madre de Deus, ROAD
-Ouricuri, Exu, ROAD
-Ipubi, Araripina, ROAD
-João Alfredo, Tupanatinga, ROAD
-Igarassu, Brejo da Madre de Deus, ROAD
-Igarassu, Ipubi, ROAD
-Exu, Tupanatinga, ROAD
-Bodocó, Brejo da Madre de Deus, ROAD
-João Alfredo, Ouricuri, ROAD
-Ipubi, Brejo da Madre de Deus, ROAD
-Exu, Araripina, ROAD
-Buíque, Tupanatinga, ROAD
-Igarassu, Buíque, ROAD
+src, dst, relationship, cost
+Igarassu, Araripina, ROAD, 704
+Araripina, Ouricuri, ROAD, 60
+Ouricuri, Buíque, ROAD, 394
+Buíque, Brejo da Madre de Deus, ROAD, 138
+Brejo da Madre de Deus, Bodocó, ROAD, 497
+Bodocó, João Alfredo, ROAD, 596
+João Alfredo, Exu, ROAD, 571
+Exu, Ipubi, ROAD, 75
+Ipubi, Tupanatinga, ROAD, 451
+Tupanatinga, Igarassu, ROAD, 329
+Araripina, Bodocó, ROAD, 79
+Exu, Igarassu, ROAD, 640
+Buíque, Ipubi, ROAD, 426
+Brejo da Madre de Deus, Ouricuri, ROAD, 479
+João Alfredo, Buíque, ROAD, 235
+Tupanatinga, Ouricuri, ROAD, 419
+Bodocó, Igarassu, ROAD, 665
+Araripina, Brejo da Madre de Deus, ROAD, 538
+Ouricuri, Exu, ROAD, 59
+Ipubi, Araripina, ROAD, 55
+João Alfredo, Tupanatinga, ROAD, 261 
+Igarassu, Brejo da Madre de Deus, ROAD, 223
+Igarassu, Ipubi, ROAD, 676
+Exu, Tupanatinga, ROAD, 413
+Bodocó, Brejo da Madre de Deus, ROAD, 498
+João Alfredo, Ouricuri, ROAD, 578
+Ipubi, Brejo da Madre de Deus, ROAD, 511
+Exu, Araripina, ROAD, 110
+Buíque, Tupanatinga, ROAD, 26
+Igarassu, Buíque, ROAD, 302
