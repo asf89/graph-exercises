@@ -1,0 +1,31 @@
+src, dst, relationship
+Igarassu, Araripina, ROAD
+Araripina, Ouricuri, ROAD
+Ouricuri, Buíque, ROAD
+Buíque, Brejo da Madre de Deus, ROAD
+Brejo da Madre de Deus, Bodocó, ROAD
+Bodocó, João Alfredo, ROAD
+João Alfredo, Exu, ROAD
+Exu, Ipubi, ROAD
+Ipubi, Tupanatinga, ROAD
+Tupanatinga, Igarassu, ROAD
+Araripina, Bodocó, ROAD
+Exu, Igarassu, ROAD
+Buíque, Ipubi, ROAD
+Brejo da Madre de Deus, Ouricuri, ROAD
+João Alfredo, Buíque, ROAD
+Tupanatinga, Ouricuri, ROAD
+Bodocó, Igarassu, ROAD
+Araripina, Brejo da Madre de Deus, ROAD
+Ouricuri, Exu, ROAD
+Ipubi, Araripina, ROAD
+João Alfredo, Tupanatinga, ROAD
+Igarassu, Brejo da Madre de Deus, ROAD
+Igarassu, Ipubi, ROAD
+Exu, Tupanatinga, ROAD
+Bodocó, Brejo da Madre de Deus, ROAD
+João Alfredo, Ouricuri, ROAD
+Ipubi, Brejo da Madre de Deus, ROAD
+Exu, Araripina, ROAD
+Buíque, Tupanatinga, ROAD
+Igarassu, Buíque, ROAD
